@@ -17,5 +17,6 @@
 ## Development
 1. Add starter files and install npm dependencies
 1. Create database and begin designing the models using sequlize
+1. Create routes to fulfill CRUD operations
 
 ## Deployment
